@@ -26,6 +26,12 @@
 		"build": "tsc",
 		"test": "ava"
 	},
+	"files":[
+		"dist/*",
+		"package.json",
+		"README.md",
+		"LICENSE"
+	],
 	"ava": {
 		"extensions": [
 			"ts"

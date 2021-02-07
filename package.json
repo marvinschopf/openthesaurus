@@ -16,7 +16,8 @@
 		"node-fetch": "^2.6.1"
 	},
 	"scripts": {
-		"build": "tsc"
+		"build": "tsc",
+    "test": "ava"
 	},
 	"ava": {
 		"extensions": [

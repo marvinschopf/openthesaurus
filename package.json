@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"main": "dist/index.js",
   "types": "dist/index.d.ts",
-	"repository": "https://github.com/marvinschopf/# Logs",
+	"repository": "https://github.com/marvinschopf/openthesaurus",
 	"author": {
     "name": "Marvin Schopf",
     "url": "https://www.marvinschopf.com",

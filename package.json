@@ -2,8 +2,13 @@
 	"name": "openthesaurus",
 	"version": "1.0.0",
 	"main": "dist/index.js",
+  "types": "dist/index.d.ts",
 	"repository": "https://github.com/marvinschopf/# Logs",
-	"author": ".node_repl_history",
+	"author": {
+    "name": "Marvin Schopf",
+    "url": "https://www.marvinschopf.com",
+    "email": "marvin@schopf.biz"
+  },
 	"license": "Apache-2.0",
 	"private": false,
 	"devDependencies": {

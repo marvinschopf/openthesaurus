@@ -1,6 +1,6 @@
 {
 	"name": "openthesaurus",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "📚 Wrapper around the OpenThesaurus API.",
 	"keywords": [
 		"openthesaurus",

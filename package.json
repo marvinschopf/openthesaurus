@@ -4,6 +4,7 @@
 	"main": "dist/index.js",
   "types": "dist/index.d.ts",
 	"repository": "https://github.com/marvinschopf/openthesaurus",
+  "funding": "https://github.com/marvinschopf/openthesaurus?sponsor=1",
 	"author": {
     "name": "Marvin Schopf",
     "url": "https://www.marvinschopf.com",
